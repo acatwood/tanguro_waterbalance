@@ -1,5 +1,5 @@
 This is the code used to process streamflow (discharge), precipitation, evapotranspiration and soil moisture data for the manuscript entitled: 
-"Land use and drought effects on groundwater outflow in headwater catchment water balances in the southeastern Amazon"
+"Land use and drought effects on groundwater outflow in headwater catchment water balances in the southeastern Amazon", Water Resources Research (2025). 
 
 We assessed the total water balance of forested and agriculturally dominated catchments during normal and drought years using the following equation (Eq. 1): 
 P= ET+Q+dS/dt+Goutflow  
