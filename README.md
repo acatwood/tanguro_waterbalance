@@ -18,5 +18,5 @@ Water balance calculations: We used a monthly time step (dt) to calculate the wa
 
 
 
-Data can be made available upon request until publication of the manuscript, where it will be made publically available in a repository.
+Precipitation (https://data.chc.ucsb.edu/products/CHIRPS-2.0/) and evapotranspiration (https://www.earthdata.nasa.gov/data/catalog/lpcloud-mod16a2-006) datasets are publicly available from their original sources. Discharge and soil moisture data utilized in this manuscript are available on CUAHSI Hydroshare (https://www.hydroshare.org/resource/64302ec32fd24341a61f3a0825ee6422/).
 
